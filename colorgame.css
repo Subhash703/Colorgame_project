@@ -63,6 +63,7 @@ button{
   color: steelblue;
   transition: all 2.0s;
   outline: none;
+  padding: 7px 10px;
 }
 button:hover{
   color:white;
